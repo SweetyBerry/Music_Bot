@@ -1,0 +1,30 @@
+{
+  "name": "Music_Bot",
+  "version": "1.0.0",
+  "description": "[![GitHub stars](https://img.shields.io/github/stars/Just-Some-Bots/MusicBot.svg)](https://github.com/Just-Some-Bots/MusicBot/stargazers)\r [![GitHub forks](https://img.shields.io/github/forks/Just-Some-Bots/MusicBot.svg)](https://github.com/Just-Some-Bots/MusicBot/network)\r [![Python version](https://img.shields.io/badge/python-3.8%2C%203.6%2C%203.7-blue.svg)](https://python.org)\r [![Discord](https://discordapp.com/api/guilds/129489631539494912/widget.png?style=shield)](https://discord.gg/bots)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node run.py"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SweetyBerry/Music_Bot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SweetyBerry/Music_Bot/issues"
+  },
+  "homepage": "https://github.com/SweetyBerry/Music_Bot#readme",
+  "dependencies": {
+    "cffi": "0.0.1",
+    "colorlog": "^0.1.1",
+    "discord.py": "^1.0.0",
+    "ffmpeg": "0.0.4",
+    "numpy": "0.0.1",
+    "pynacl": "0.0.1",
+    "ytdl-core": "^4.11.0"
+  }
+}
